@@ -14,9 +14,14 @@ Jogador que atingir 7 pontos, ganha o jogo.
 Para que o jogo seja executado, primeiramente deve ser feito a pinagem no FPGA das seguintes funções:
 * Start
 * Reset
-* Paleta Player 1 e 2
 * Visualização dos pontos:
   * Essa visualização foi feita no display de 7-segmentos disponível no FPGA.
-  
+ 
  **OBS:** no diretório *project-componets* possui mais uma breve explicação dos componentes para melhor entendimento
  das pinagens e do seu funcionamento. Além do mais, na raiz do projeto, possui um relátorio final do projeto.
+
+## Controles:
+Os controles de *start* e *reset* são definidos pelo usuário.
+
+**Player 1:** seta para cima e seta para baixo.<br>
+**Player 2:** teclar W para subir e S para descer. 
