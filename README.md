@@ -19,4 +19,4 @@ Para que o jogo seja executado, primeiramente deve ser feito a pinagem no FPGA d
   * Essa visualização foi feita no display de 7-segmentos disponível no FPGA.
   
  **OBS:** no diretório *project-componets* possui mais uma breve explicação dos componentes para melhor entendimento
- das pinagens e do seu funcionamento.
+ das pinagens e do seu funcionamento. Além do mais, na raiz do projeto, possui um relátorio final do projeto.
